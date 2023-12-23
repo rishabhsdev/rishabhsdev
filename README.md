@@ -10,7 +10,7 @@ I can also efficiently work in Linux environment.
 ### Some of my Interesting Contributions ⚡
 ------
 
-https://github.com/rishabhsdev/GraphQL-Playground
+https://github-readme-stats.vercel.app/api/pin/?username=rishabhsdev&repo=GraphQL-Playground&theme=dark&show_owner=true
 
 ### Skills
 ------
