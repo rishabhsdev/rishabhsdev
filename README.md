@@ -4,6 +4,7 @@
 I am a Backend Developer. I expertise in NodeJS.
 I have **deep understanding** and **hands-on experience** with AWS, Docker, REST, GraphQL, SQL & NoSQL Databases.
 I can also efficiently work in Linux environment.
+------
 
 ### Some of my Interesting Contributions ⚡
 
