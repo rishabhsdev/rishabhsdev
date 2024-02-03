@@ -2,7 +2,7 @@
 ### Hi there 👋
 ------
 
-I am a Backend Developer. I expertise in NodeJS.
+I am a Software Developer & Engineer. I can work with Java, SpringBoot, C/C++, Node.js.
 I have **deep understanding** and **hands-on experience** with AWS, Docker, REST, GraphQL, SQL & NoSQL Databases.
 I can also efficiently work in Linux environment.
 
