@@ -7,7 +7,8 @@ I am a Software Developer & Engineer. I can work with:
 * JAVA
 * SpringBoot
 * C/C++
-* JavaScript (Node.js).
+* JavaScript (Node.js)
+
 I have **deep understanding** and **hands-on experience** with:
 * AWS
 * Docker
