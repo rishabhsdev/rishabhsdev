@@ -24,6 +24,8 @@ Technologies: REST/GraphQL API, Docker, git, AWS, MongoDB
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishabhsdev&repo=JAVA-Spring-LMS&theme=dark&show_owner=true)](https://github.com/rishabhsdev/JAVA-Spring-LMS)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishabhsdev&repo=JAVA-Graph-Networking&theme=dark&show_owner=true)](https://github.com/rishabhsdev/JAVA-Graph-Networking)
+
 
 <!--
 **rishabhsdev/rishabhsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
