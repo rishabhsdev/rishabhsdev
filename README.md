@@ -10,12 +10,10 @@
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=java%2C%E2%99%A8+java%2Cffffff%3Bspring%2Cspring%2C6DB33F%3Bmysql%2Csql%2Cffffff%3Bhibernate%2Chibernate%2C59666C%3B&line2=nodedotjs%2CNode.js%2C339933%3Bdocker%2Cdocker%2C2496ED%3Bamazonaws%2CAWS%2Cffffff%3Bcplusplus%2CC%2FC%2B%2B%2C00599C%3B)
 
 I have **deep understanding** and **hands-on experience** with:
-* AWS
-* Docker
-* REST/GraphQL API
-* SQL & NoSQL Databases
 
-I can also efficiently work in Linux environment.
+* Languages   :  JAVA, C/C++, JavaScript, SQL, HTML/CSS
+* Frameworks  : Spring/SpringBoot, Hibernate, JUnit, Node.js
+* Technologies: REST/GraphQL API, Docker, git, AWS, MongoDB
 
 ### Some of my Interesting Contributions ⚡
 ------
