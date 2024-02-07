@@ -11,8 +11,8 @@
 
 I have **deep understanding** and **hands-on experience** with:
 
-* Languages   :  JAVA, C/C++, JavaScript, SQL, HTML/CSS
-* Frameworks  : Spring/SpringBoot, Hibernate, JUnit, Node.js
+* Languages &nbsp &nbsp:  JAVA, C/C++, JavaScript, SQL, HTML/CSS
+* Frameworks &nbsp: Spring/SpringBoot, Hibernate, JUnit, Node.js
 * Technologies: REST/GraphQL API, Docker, git, AWS, MongoDB
 
 ### Some of my Interesting Contributions ⚡
