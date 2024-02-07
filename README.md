@@ -1,4 +1,6 @@
 ![Hello](https://github.com/rishabhsdev/rishabhsdev/assets/56164824/43fd4ebe-7e45-491f-9e45-1654e180d560)
+![Intro](https://github.com/rishabhsdev/rishabhsdev/assets/56164824/f8faa385-f571-4ce4-805d-08af661f8d2b)
+
 
 ### Hi there 👋
 ------
