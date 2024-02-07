@@ -1,5 +1,5 @@
-![Hello](https://github.com/rishabhsdev/rishabhsdev/assets/56164824/43fd4ebe-7e45-491f-9e45-1654e180d560)
-![Intro](https://github.com/rishabhsdev/rishabhsdev/assets/56164824/57d03a19-00ed-4e78-9527-c57813295ca4)
+![main](https://github.com/rishabhsdev/rishabhsdev/assets/56164824/64d746cd-f6ea-4ffb-94ca-0a76973a02c9)
+
 
 
 
