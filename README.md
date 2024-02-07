@@ -18,9 +18,7 @@ Technologies: REST/GraphQL API, Docker, git, AWS, MongoDB
 ### Some of my Interesting Contributions ⚡
 ------
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishabhsdev&repo=GraphQL-Playground&theme=dark&show_owner=true)](https://github.com/rishabhsdev/GraphQL-Playground)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishabhsdev&repo=Hello-Mars&theme=dark&show_owner=true)](https://github.com/rishabhsdev/Hello-Mars)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishabhsdev&repo=GraphQL-Playground&theme=dark&show_owner=true)](https://github.com/rishabhsdev/GraphQL-Playground) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishabhsdev&repo=Hello-Mars&theme=dark&show_owner=true)](https://github.com/rishabhsdev/Hello-Mars)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishabhsdev&repo=JAVA-Spring-LMS&theme=dark&show_owner=true)](https://github.com/rishabhsdev/JAVA-Spring-LMS)
 
